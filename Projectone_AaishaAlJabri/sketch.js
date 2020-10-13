@@ -1,10 +1,9 @@
 function setup() {
-  
-  createCanvas(500,500);
+  createCanvas(600,600);
   background(0);
 }
 
 function draw() {
   fill(255);
-  ellipse(width/2,height/2,50,50);
+  ellipse(300,300,10,10);
 }
